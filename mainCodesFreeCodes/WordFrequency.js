@@ -1,0 +1,4 @@
+function wordFrequeny(txt,n)
+{
+    
+}

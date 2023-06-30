@@ -1,0 +1,1 @@
+console.log(parseInt("00000000" + (parseInt('0xFE', 16)).toString(2)).toString());

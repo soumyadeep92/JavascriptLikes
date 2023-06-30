@@ -1,0 +1,4 @@
+function crossProduct(a, b) 
+{
+
+}

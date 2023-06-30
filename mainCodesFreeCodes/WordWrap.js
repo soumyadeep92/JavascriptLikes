@@ -1,0 +1,4 @@
+function WordWrap(text,limit)
+{
+
+}
